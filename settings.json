@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Unstablesmpro.aternos.me:25715",
+    "ip": "Unstablesmpro.aternos.me",
     "port": 25715,
     "version": "",
     "try-creative": false
